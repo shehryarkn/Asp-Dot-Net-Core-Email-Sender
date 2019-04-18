@@ -1,0 +1,23 @@
+/Users/shehryarkhan/Projects/Email Sender/obj/Debug/netcoreapp2.2/Email Sender.csprojAssemblyReference.cache
+/Users/shehryarkhan/Projects/Email Sender/obj/Debug/netcoreapp2.2/Email Sender.csproj.CoreCompileInputs.cache
+/Users/shehryarkhan/Projects/Email Sender/obj/Debug/netcoreapp2.2/Email Sender.RazorAssemblyInfo.cache
+/Users/shehryarkhan/Projects/Email Sender/obj/Debug/netcoreapp2.2/Email Sender.RazorAssemblyInfo.cs
+/Users/shehryarkhan/Projects/Email Sender/obj/Debug/netcoreapp2.2/Email Sender.AssemblyInfoInputs.cache
+/Users/shehryarkhan/Projects/Email Sender/obj/Debug/netcoreapp2.2/Email Sender.AssemblyInfo.cs
+/Users/shehryarkhan/Projects/Email Sender/bin/Debug/netcoreapp2.2/Email Sender.deps.json
+/Users/shehryarkhan/Projects/Email Sender/bin/Debug/netcoreapp2.2/Email Sender.runtimeconfig.json
+/Users/shehryarkhan/Projects/Email Sender/bin/Debug/netcoreapp2.2/Email Sender.runtimeconfig.dev.json
+/Users/shehryarkhan/Projects/Email Sender/bin/Debug/netcoreapp2.2/Email Sender.dll
+/Users/shehryarkhan/Projects/Email Sender/bin/Debug/netcoreapp2.2/Email Sender.pdb
+/Users/shehryarkhan/Projects/Email Sender/bin/Debug/netcoreapp2.2/Email Sender.Views.dll
+/Users/shehryarkhan/Projects/Email Sender/bin/Debug/netcoreapp2.2/Email Sender.Views.pdb
+/Users/shehryarkhan/Projects/Email Sender/obj/Debug/netcoreapp2.2/Email Sender.TagHelpers.input.cache
+/Users/shehryarkhan/Projects/Email Sender/obj/Debug/netcoreapp2.2/Email Sender.TagHelpers.output.cache
+/Users/shehryarkhan/Projects/Email Sender/obj/Debug/netcoreapp2.2/Email Sender.RazorCoreGenerate.cache
+/Users/shehryarkhan/Projects/Email Sender/obj/Debug/netcoreapp2.2/Razor/Views/MailSender/Index.cshtml.g.cs
+/Users/shehryarkhan/Projects/Email Sender/obj/Debug/netcoreapp2.2/Email Sender.RazorTargetAssemblyInfo.cache
+/Users/shehryarkhan/Projects/Email Sender/obj/Debug/netcoreapp2.2/Email Sender.RazorTargetAssemblyInfo.cs
+/Users/shehryarkhan/Projects/Email Sender/obj/Debug/netcoreapp2.2/Email Sender.Views.pdb
+/Users/shehryarkhan/Projects/Email Sender/obj/Debug/netcoreapp2.2/Email Sender.dll
+/Users/shehryarkhan/Projects/Email Sender/obj/Debug/netcoreapp2.2/Email Sender.pdb
+/Users/shehryarkhan/Projects/Email Sender/obj/Debug/netcoreapp2.2/Email Sender.csproj.CopyComplete
